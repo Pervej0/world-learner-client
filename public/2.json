@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "name": "Standard",
+  "title": "One-Year Comprehensive Counseling",
+  "features1": "Discussing about yourself",
+  "features2": "Flexible schedules and start dates",
+  "features3": "Personalized one-to-one live tutoring",
+  "features4": "Small group live tutoring",
+  "features5": "Guaranteed progress",
+  "features6": "",
+  "features7": "",
+  "img": "https://images04.military.com/sites/default/files/styles/full/public/2017-11/study-1800x1200.jpg",
+  "description": "This package begins after the completion of the student’s 9th grade year and includes all the components of the Comprehensive Counseling Package",
+  "price": 5000,
+  "duration": "2.5hr/3days in a week"
+}

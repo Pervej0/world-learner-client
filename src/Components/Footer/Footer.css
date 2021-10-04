@@ -1,0 +1,15 @@
+.footer-icon ul li {
+  margin: 0px 10px;
+}
+
+.footer-icon ul li a {
+  border: 0;
+  padding: 12px;
+  border: 1px solid #f7f7f7;
+  border-radius: 50px;
+  transition: 0.2s all ease;
+}
+
+.footer-icon ul li:hover a {
+  border: 1px solid #000000;
+}

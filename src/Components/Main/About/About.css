@@ -1,0 +1,25 @@
+.about-banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url(../../../Images/About/banner.png);
+  min-height: 50vh;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.img-box {
+  background-image: url(../../../Images/About/teach.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 350px;
+  width: 100%;
+  clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+
+@media (max-width: 669px) {
+  .about-banner {
+    min-height: 30vh;
+  }
+}

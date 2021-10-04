@@ -1,0 +1,33 @@
+.service-banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url(../../../Images/Services/banner.jpg);
+  min-height: 50vh;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.package img {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.features li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features li:last-child {
+  border-bottom: 0;
+}
+
+@media (max-width: 669px) {
+  .service-banner {
+    min-height: 30vh;
+  }
+}
