@@ -1,6 +1,7 @@
 # WorldLerner Coaching Center:
 
 WorldLerner Coaching Center is the one of oldest educational institute in Bangladesh.
+It serves about 1lakh students accross the country.
 
 ## Live site:
 
@@ -24,4 +25,4 @@ i: It's based on react (Javascript framwork).
 
 ii: For style used Tailwind (CSS Framwork)
 
-ii Others relevent react packages.
+iii: Others relevent react packages.
