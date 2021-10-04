@@ -24,7 +24,7 @@ const Footer = () => {
             Know the unknown, see the unseen
           </h1>
         </div>
-        <div className="footer-icon my-4">
+        <div className="footer-icon my-6">
           <ul className="flex justify-center">
             <li>
               <Link

@@ -28,7 +28,7 @@ const ServicePackage = (props) => {
       </div>
       <Link
         to={`/service/${id}`}
-        className="py-2 px-3 bg-green-700 text-white font-bold"
+        className="border py-2 px-3 bg-green-700 text-white uppercase transition-all hover:bg-transparent hover:text-gray-700 hover:border-black"
       >
         Learn More
       </Link>

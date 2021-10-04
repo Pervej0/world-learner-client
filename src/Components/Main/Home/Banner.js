@@ -19,7 +19,7 @@ const Banner = () => {
           </p>
           <Link
             to="/about"
-            className="border py-2 px-3 bg-green-700 text-white uppercase transition-all	 hover:bg-transparent hover:text-gray-700 hover:border-black"
+            className="border py-2 px-3 bg-green-700 text-white uppercase transition-all hover:bg-transparent hover:text-gray-700 hover:border-black"
           >
             Read More
           </Link>
